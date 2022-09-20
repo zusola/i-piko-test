@@ -1,1 +1,1 @@
-По идее текст отсюда будет виден в `config.qmk.fm`
+This is dactyl_manuform 5x7_ip keyboard
